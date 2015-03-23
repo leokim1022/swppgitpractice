@@ -1,3 +1,7 @@
+### swppgitpractice
+
+---
+
 # swppgitpractice
-swppgitpractice
-This is repositoru for SNU SWPP class practice
+<br>
+This is repository for `SNU SWPP` class practice.
